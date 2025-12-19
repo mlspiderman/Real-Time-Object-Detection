@@ -30,7 +30,6 @@ flowchart TD
     C --> D[FastAPI Streaming Endpoint]
     D --> E[Web Dashboard (MJPEG)]
 ```
-
 ---
 
 ## ⚙️ How it works
