@@ -28,7 +28,7 @@ flowchart TD
     A[Camera / Video Source] --> B[OpenCV]
     B --> C[YOLOv8 Inference]
     C --> D[FastAPI Streaming Endpoint]
-    D --> E[Web Dashboard (MJPEG)]
+    D --> E["Web Dashboard (MJPEG)"]
 ```
 ---
 
